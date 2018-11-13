@@ -1,8 +1,11 @@
 # Basic Calculator App
 
 It is basic calculator app designed using google's API Flutter.
+![Screenshot 1](Screenshot_1.png)
+![Screenshot 2](Screenshot_2.png)
+![Screenshot 3](Screenshot_3.png)
 
-        CalculatorApp_using_Flutter/Screenshot_1.png
+        
       
 ## Getting Started
 
