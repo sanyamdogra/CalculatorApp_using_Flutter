@@ -1,6 +1,6 @@
-# calculatorapp
+# Basic Calculator App
 
-A new Flutter project.
+It is basic calculator app designed using google's API Flutter.
 
 ## Getting Started
 
